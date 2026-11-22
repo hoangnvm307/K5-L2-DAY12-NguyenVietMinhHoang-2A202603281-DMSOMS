@@ -1,21 +1,6 @@
 # RULES — Lab Ngày 12
 
-## 1. Cá nhân hay nhóm
 
-Bạn chọn một trong hai cách. **Điểm luôn chấm theo từng người.**
-
-| | Nhóm 2–4 người | Cá nhân |
-|---|---|---|
-| Mã bộ ảnh | Cả nhóm nhận **một** mã `Gxx` | Coach giao mã `Gxx`, mỗi mã có ít nhất 2 người |
-| Gán nhãn | **Mỗi người tự gán đủ 22 ảnh** trên CVAT của mình. **Không chia ảnh** cho nhau | Tự gán đủ 22 ảnh |
-| Review chéo (Task 3) | Mỗi người `diff` với một bạn trong nhóm. Nhóm 3 xoay vòng A→B→C→A; nhóm 2 và 4 ghép cặp | Coach ghép cặp với một bạn cùng mã |
-| Nộp | Mỗi người nộp bộ E1–E5 của mình. Nhóm thêm `TEAM.md` ghi ai review ai | Nộp E1–E5. `TEAM.md` chỉ ghi tên bạn review |
-| Được bàn với nhau | Cách hiểu guideline, ca khó (gọi bằng tên ảnh), lỗi CVAT | Như bên trái, với bạn được ghép và coach |
-| Không được | Copy file export hay XML của bạn rồi nộp là của mình; một người gán rồi cả nhóm cùng nộp | Như bên trái |
-
-Vì sao không chia ảnh: mục tiêu là mỗi người tự áp guideline. Nếu chia ảnh thì không còn bản thứ hai để so, và Task 3 mất ý nghĩa.
-
-Hai bạn trùng nhãn chỉ cho thấy hai người **nhất quán**, không chứng minh nhãn **đúng**. Guideline và coach mới là căn cứ phân xử.
 
 ## 2. Ảnh ở yên trong lớp
 
@@ -30,8 +15,7 @@ Lý do: SVIRO dùng giấy phép CC BY-NC-SA 4.0, còn Drive&Act chỉ cho phép
 ## 3. Dùng AI
 
 - **Được** hỏi AI về CVAT, Python, cách hiểu một khái niệm (NIR, gaze zone…), hoặc nhờ AI góp ý câu chữ của danh sách lớp.
-- **Không được** đưa ảnh cabin hay ảnh tài xế cho AI, kể cả ảnh chụp màn hình. Không nhờ AI tự gán nhãn.
-- Ghi mọi lần dùng AI vào `prompts.md` (mẫu ở [templates/prompts.md](templates/prompts.md)): công cụ, câu hỏi, bạn dùng kết quả thế nào. Không dùng AI thì ghi "Không dùng".
+
 
 ## 4. Khi kẹt
 

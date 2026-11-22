@@ -1,13 +1,13 @@
 # TEAM — Ngày 12
 
-Mã bộ ảnh: **Gxx** · Hình thức: nhóm / cá nhân (xóa một)
+Mã bộ ảnh: **G05** · Hình thức:cá nhâ
 
 | Họ tên | MSSV | Đã gán đủ 22 ảnh? | Review chéo với (peer diff) | Số dòng disagreement đã xử lý |
 |---|---|---|---|---|
-| | | có / không | | |
+|Nguyễn Viết Minh Hoàng | 2A202603281 | có |  | 0 |
 | | | | | |
 
-Ca hai bạn vẫn không thống nhất và đã hỏi coach (ghi tên ảnh + đối tượng):
+Ca hai bạn vẫn không thống nhất và đã hỏi coach (ghi tên ảnh + đối tượng):không
 
 - …
 

@@ -1,0 +1,12 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D02.png,hand,side,khác giá trị (IoU=0.97),right,left,,,
+D02.png,hand,side,khác giá trị (IoU=0.92),left,right,,,
+D04.png,person,seatbelt,khác giá trị (IoU=0.99),worn_correct,unknown,,,
+D06.png,face,eye_left,khác giá trị (IoU=0.97),unknown,closed,,,
+D06.png,face,eye_right,khác giá trị (IoU=0.97),unknown,closed,,,
+S01_ir.png,person,seatbelt,khác giá trị (IoU=1.00),unknown,not_worn,,,
+S01_rgb.png,person,seatbelt,khác giá trị (IoU=1.00),unknown,not_worn,,,
+S06_ir.png,face,eye_left,khác giá trị (IoU=0.95),unknown,closed,,,
+S06_ir.png,face,eye_right,khác giá trị (IoU=0.95),unknown,closed,,,
+S06_rgb.png,face,eye_left,khác giá trị (IoU=0.95),unknown,closed,,,
+S06_rgb.png,face,eye_right,khác giá trị (IoU=0.95),unknown,closed,,,

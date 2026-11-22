@@ -1,3 +1,6 @@
 frame_id,source,phenomenon,affected_field,effect_on_label
-S01_ir,IR_sim,"(ví dụ) không thấy dây an toàn trên áo tối",seatbelt,"giữ unknown; RGB cùng cảnh cũng không thấy"
-D03,real_IR,"(ví dụ) đốm phản xạ LED trên tròng kính che mắt phải",right_eye_state,"ghi unknown, không ghi closed"
+S01_ir,IR_sim,Mất thông tin màu sắc khiến quần áo tối màu tiệp màu với đệm ghế nỉ,person.seat,"Vẫn xác định được ghế rear_right nhờ viền cơ thể; seatbelt gán unknown"
+S03_ir,IR_sim,Đồ vật trên ghế mất màu sắc và chất liệu bề mặt nên khó phân biệt balô với túi xách,object.type,"Không chắc chắn giữa bag và box thì gán type=other theo quy tắc 4.8"
+D01,real_IR,Đèn LED NIR phản xạ tạo đốm loá trắng trên tròng kính che lấp con ngươi,eye_left,"Gán eye_left=unknown (không đoán closed); các điểm mắt trên face13 đánh cờ occluded=1"
+D03,real_IR,Tia NIR 940nm xuyên thấu qua tròng kính râm tối màu làm lộ rõ mắt phía sau,glasses / eye_state,"Gán glasses=sun (do gọng kính râm); mắt vẫn thấy rõ khe mi nên gán eye=open thay vì unknown"
+D05,real_IR,Tài xế cúi đầu xuống đùi khiến vùng mắt rơi vào góc khuất ánh sáng đèn NIR trên trần,eye_left / eye_right,"Hốc mắt tối đen không thấy khe mi nên gán unknown; gaze_zone gán lap"
